@@ -1,0 +1,19 @@
+<view>
+    <view class="boxTop"><view class="Top"><text space="ensp"> 头像</text>
+        <button class="btn1">
+        
+            <image src="/image/头像.png"></image>
+        </button></view></view>
+    <view class="box" ><view class="inner"><text class="r1" space="ensp"> 姓名                           <text class="context">杨牧谦</text></text><view class="arrow"></view></view></view>
+    <view class="box"><view class="inner"><text space="ensp"> 性别</text>
+    <button class="select1"><image src="/image/男1.png" class="photo"></image></button>
+    <button class="select2"><image src="/image/女1.png" class="photo1"></image></button>
+    
+    </view></view>
+    <view class="box"><view class="inner"><text space="ensp"> 学校                     <text class="context">华南师范大学</text></text><view class="arrow"></view></view></view>
+    <view class="box"><view class="inner"><text space="ensp"> 学校                     <text class="context">华南师范大学</text></text><view class="arrow"></view></view></view>
+
+
+
+
+</view>
